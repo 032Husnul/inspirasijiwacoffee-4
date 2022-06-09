@@ -1,0 +1,50 @@
+body {
+  background-color: #efefef;
+}
+
+.container-fluid {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color:  transparent;  
+}
+
+.login-form {
+  background-color: #fff;
+  border-radius: 10px;
+  margin-top: 150px;
+  height: 350px;
+  width: 420px;
+  padding: 25px;
+}
+.in-em{
+  border-radius: 10px;
+}
+.signup-form {
+  background-color: transparent;
+  border-radius: 10px;
+  margin-top: 30px;
+  height: 600px;
+  width: 420px;
+  padding: 25px;
+}
+.img-l{
+  margin: auto;
+  width: 500px;
+  height: 500px;
+}
+.img-lo{
+  width: 50px;
+  height: 50px;
+}
+.para-2 {
+  text-align: center;
+  color: black;
+  font-size: 15px;
+  margin-top: 15px;
+}
+
+.para-2 a {
+  color: blue;
+}
